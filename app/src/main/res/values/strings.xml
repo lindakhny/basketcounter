@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BasketCounter</string>
+    <string name="title">ANDROID KEJAR</string>
+    <string name="uname">Username</string>
+    <string name="pass">Password</string>
+</resources>
